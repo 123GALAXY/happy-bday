@@ -1,0 +1,14 @@
+.body_backgorund 
+{
+    background-image:url(https://64.media.tumblr.com/ffda2f4fb5bf4e26a1bac941576b4871/91f6e2239c9c8481-43/s400x600/eea0ff8cee3bc1676e882af23d747c58cedb35d3.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width: 10px;
+   background-color: white;
+   border-style: ridge;
+   border-color: darkviolet;
+}
+
